@@ -1,0 +1,9 @@
+{
+  "excluded_count": 1,
+  "excluded_at_final_stage": [
+    {
+      "ticker": "VICI",
+      "reason": "incomplete OOS coverage (required 23 windows and 483 rows per model)"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.db
+*.sqlite
+*.sqlite3
+*.log
+.pytest_cache/
+
+research/output/predictions_final_a.csv
+research/output/final_a_checkpoints/
+papers/
